@@ -27,9 +27,15 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 * Scalability: The system should be able to scale horizontally to handle increased traffic.
 * Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 * Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+## Acceptance Criteria.
+### Importance of Acceptance Criteria:
 
+* Ensure all parties have a clear understanding of feature requirements.
+* Provide a basis for testing and validation.
+* Help in maintaining quality and meeting user expectations.
 
-
+### an example of acceptance criteria
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.
 
 
 
